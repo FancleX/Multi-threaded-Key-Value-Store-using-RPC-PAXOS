@@ -54,7 +54,7 @@ java -jar client.jar
 
 - After five servers started, then a client starts with output:
 
-  ![ScreenShot](./res/docs/client.png)
+  ![ScreenShot](./res/docs/client.PNG)
 
 
 
